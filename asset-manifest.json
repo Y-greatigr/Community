@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Community/static/css/main.86de43cb.css",
+    "main.js": "/Community/static/js/main.03dd73bf.js",
+    "static/js/787.87db6e1b.chunk.js": "/Community/static/js/787.87db6e1b.chunk.js",
+    "static/media/jbmb_logo.png": "/Community/static/media/jbmb_logo.079a21e684d0b55a6d27.png",
+    "index.html": "/Community/index.html",
+    "main.86de43cb.css.map": "/Community/static/css/main.86de43cb.css.map",
+    "main.03dd73bf.js.map": "/Community/static/js/main.03dd73bf.js.map",
+    "787.87db6e1b.chunk.js.map": "/Community/static/js/787.87db6e1b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86de43cb.css",
+    "static/js/main.03dd73bf.js"
+  ]
+}
